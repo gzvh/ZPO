@@ -2,9 +2,9 @@ package com.prog4;
 
 public class Ruler {
 
-    public void drawRuler(int length, int depth) {
+    public void drawRuler(int lengthWhole, int depth) {
         drawLine(depth, 0);
-        for (int i = 1; i <= length; i++) {
+        for (int i = 1; i <= lengthWhole; i++) {
             drawInterval(depth - 1);
             drawLine(depth, i);
         }
@@ -24,8 +24,8 @@ public class Ruler {
     /**
      * Rysuje linie o podanej dlugosci z opcjonalna etykieta
      */
-    private void drawLine(int tickLength, int label) {
-        for (int i = 0; i < tickLength; i++)
+    private void drawLine(int length, int label) {
+        for (int i = 0; i < length; i++)
             System.out.print("-");
         if (label >= 0)
             System.out.print(" " + label);
@@ -35,7 +35,7 @@ public class Ruler {
     /**
      * Rysuje linie o podanej dlugosci bez etykiety
      */
-    private void drawLine(int tickLength) {
-        drawLine(tickLength, -1);
+    private void drawLine(int length) {
+        drawLine(length, -1);
     }
 }
