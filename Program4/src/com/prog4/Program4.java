@@ -10,6 +10,10 @@ public class Program4 {
         int length = 0;
         int depth= 0;
         Scanner input = new Scanner(System.in);
+		
+		/**
+		* Rysuje linijke pionowo
+		*/
 
         try {
             System.out.println("Enter length: ");
