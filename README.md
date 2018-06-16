@@ -1,2 +1,0 @@
-# ZPO
-Zaawansowane Programowanie Obiektowe
