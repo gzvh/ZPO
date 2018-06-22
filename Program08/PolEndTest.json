@@ -1,0 +1,88 @@
+[
+  {
+    "number": 1,
+    "question": "Krzyczec to?",
+    "answers": [
+      "scream",
+      "shout",
+      "cry"
+    ]
+  },
+  {
+    "number": 2,
+    "question": "Zamek to?",
+    "answers": [
+      "lock",
+      "castle"
+    ]
+  },
+  {
+    "number": 3,
+    "question": "Zepsuć to?",
+    "answers": [
+      "break",
+      "mess",
+      "screw up"
+    ]
+  },
+  {
+    "number": 4,
+    "question": "Basen to?",
+    "answers": [
+      "pool",
+      "swimming pool",
+      "basin"
+    ]
+  },
+  {
+    "number": 5,
+    "question": "Sedzia to?",
+    "answers": [
+      "judge",
+      "referee",
+      "arbiter"
+    ]
+  },
+  {
+    "number": 6,
+    "question": "Kubek to?",
+    "answers": [
+      "cup",
+      "mug",
+      "jug"
+    ]
+  },
+  {
+    "number": 7,
+    "question": "Wakacje to?",
+    "answers": [
+      "vacation",
+      "holiday"
+    ]
+  },
+  {
+    "number": 8,
+    "question": "Owca to?",
+    "answers": [
+      "sheep",
+      "ewe"
+    ]
+  },
+  {
+    "number": 9,
+    "question": "Pilka nozna to?",
+    "answers": [
+      "football",
+      "soccer"
+    ]
+  },
+  {
+    "number": 10,
+    "question": "Morze to?",
+    "answers": [
+      "sea",
+      "water",
+      "deep"
+    ]
+  }
+]

@@ -1,0 +1,46 @@
+cze 21, 2018 3:31:38 PM com.program6.Race startRace
+INFO: Wyścig rozpoczęty
+cze 21, 2018 3:31:38 PM com.program6.Race lambda$startRace$0
+INFO: Marlo ukonczyl wyscig z czasem: 317s
+cze 21, 2018 3:31:38 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:40 PM com.program6.Race lambda$startRace$0
+INFO: Modestine ukonczyl wyscig z czasem: 290s
+cze 21, 2018 3:31:40 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:42 PM com.program6.Race lambda$startRace$0
+INFO: Kim ukonczyl wyscig z czasem: 250s
+cze 21, 2018 3:31:42 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:44 PM com.program6.Race lambda$startRace$0
+INFO: Cathlene ukonczyl wyscig z czasem: 255s
+cze 21, 2018 3:31:44 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:46 PM com.program6.Race lambda$startRace$0
+INFO: Carlynne ukonczyl wyscig z czasem: 319s
+cze 21, 2018 3:31:46 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:48 PM com.program6.Race lambda$startRace$0
+INFO: Aurlie ukonczyl wyscig z czasem: 356s
+cze 21, 2018 3:31:48 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:50 PM com.program6.Race lambda$startRace$0
+INFO: Channa ukonczyl wyscig z czasem: 370s
+cze 21, 2018 3:31:50 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:52 PM com.program6.Race lambda$startRace$0
+INFO: Doti ukonczyl wyscig z czasem: 250s
+cze 21, 2018 3:31:52 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:54 PM com.program6.Race lambda$startRace$0
+INFO: Kristal ukonczyl wyscig z czasem: 250s
+cze 21, 2018 3:31:54 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:56 PM com.program6.Race lambda$startRace$0
+INFO: Olympe ukonczyl wyscig z czasem: 370s
+cze 21, 2018 3:31:56 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
+cze 21, 2018 3:31:58 PM com.program6.Race lambda$startRace$0
+INFO: Corri ukonczyl wyscig z czasem: 298s
+cze 21, 2018 3:31:58 PM com.program6.Race lambda$startRace$0
+INFO: Wyścig zakończony
