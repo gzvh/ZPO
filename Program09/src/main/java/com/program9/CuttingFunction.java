@@ -13,10 +13,9 @@ class CuttingFunction {
             throw new IllegalArgumentException();
 
        List<String> parts = new ArrayList<>();
-       int strLength = s.length();
 
-       for (int i = 0; i < strLength; i += length) {
-           parts.add(s.substring(i, Math.min(strLength, i + length)));
+       for (int i = 0; i < s.length(); i += length) {
+           parts.add(s.substring(i, Math.min(s.length(), i + length)));
        }
 
        return Arrays.asList(parts.toArray(new String[0]));

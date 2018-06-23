@@ -7,8 +7,8 @@ public class Program8 {
     public static void main(String[] args) {
 
         createQuestions();
-        EngTest gra1 = new EngTest();
-        gra1.startTest();
+        EngTest test = new EngTest();
+        test.startTest();
 
     }
 }
